@@ -1,3 +1,23 @@
+.header-container {
+  padding: 2%;
+  border-width: thick;
+  background-color:white;
+  border: solid black;
+  border-width: 60%;
+  margin-top: 80%;
+  margin-bottom: 80%;
+  box-sizing: border-box;
+  margin: 2% ;
+  display: block;
+}
+
+.page-container {
+  border-width: 100%;
+  height: auto;
+  position: absolute;
+  border: 60px solid rgb(0, 0, 0);
+}
+
 .column {
   padding: 8%;
   width: 50%;
@@ -45,4 +65,26 @@
   margin: auto;
   display: block;
   float: left;
+}
+
+.sidebar {
+  padding: 2%;
+  color: black;
+  text-align: left;
+  font-weight: lighter;
+  width: 30%;
+  float: right;
+  background-color:rgb(230, 229, 229);
+  border: solid white;
+  border-width: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  margin: auto;
+  display: block;
+}
+
+.sidebar h2 {
+  font-weight: bold;
+  font-size: large;
 }
