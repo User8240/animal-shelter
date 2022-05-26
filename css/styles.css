@@ -1,11 +1,23 @@
 .column {
-  width: 33%;
+  padding: 8%;
+  width: 50%;
   float: left;
+  color: rgb(50, 49, 49);
+}
+
+.column p {
+  color: slategray;
+  font-weight: lighter;
+}
+
+.centered {
+  text-align: left;
 }
 
 .theme {
   text-align: center;
   font-size: large;
+  font-family: Helvetica;
 }
 
 .img1 {
