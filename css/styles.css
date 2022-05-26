@@ -1,7 +1,9 @@
 .header-container {
+  color: white;
+  font-weight: lighter;
   padding: 2%;
   border-width: thick;
-  background-color:white;
+  background-color: black;
   border: solid black;
   border-width: 60%;
   margin-top: 80%;
