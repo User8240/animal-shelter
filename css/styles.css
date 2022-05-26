@@ -5,4 +5,32 @@
 
 .theme {
   text-align: center;
+  font-size: large;
+}
+
+.img1 {
+  padding: 5px;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+  float: left;
+}
+
+.img2 {
+  padding: 5px;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+  float: left;
+}
+
+.img3 {
+  padding: 5px;
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+  float: left;
 }
