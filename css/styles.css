@@ -1,17 +1,16 @@
-.header-container {
-  color: white;
-  font-weight: lighter;
-  padding: 2%;
-  border-width: thick;
-  background-color: black;
+.line {
+  padding: 1%;
   border: solid black;
-  border-width: 60%;
-  margin-top: 80%;
-  margin-bottom: 80%;
+  background-color: black;
+  border-width: 10%;
+  margin-top: auto;
+  margin-bottom: auto;
   box-sizing: border-box;
-  margin: 2% ;
+  margin: 0% ;
   display: block;
 }
+
+
 
 .page-container {
   border-width: 100%;
