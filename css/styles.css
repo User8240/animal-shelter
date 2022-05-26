@@ -1,5 +1,5 @@
 .line {
-  padding: 1%;
+  padding: .5%;
   border: solid black;
   background-color: black;
   border-width: 10%;
@@ -13,10 +13,11 @@
 
 
 .page-container {
-  border-width: 100%;
+  border-width: 80%;
   height: auto;
   position: absolute;
   border: 60px solid rgb(0, 0, 0);
+  margin: black;
 }
 
 .column {
@@ -39,6 +40,10 @@
   text-align: center;
   font-size: large;
   font-family: Helvetica;
+}
+
+.text-align {
+  text-align: left;
 }
 
 .img1 {
