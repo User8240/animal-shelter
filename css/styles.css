@@ -10,8 +10,6 @@
   display: block;
 }
 
-
-
 .page-container {
   border-width: 80%;
   height: auto;
@@ -21,7 +19,7 @@
 }
 
 .column {
-  padding: 8%;
+  padding: 3%;
   width: 50%;
   float: left;
   color: rgb(50, 49, 49);
@@ -30,10 +28,6 @@
 .column p {
   color: slategray;
   font-weight: lighter;
-}
-
-.centered {
-  text-align: left;
 }
 
 .theme {
