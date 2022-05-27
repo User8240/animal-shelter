@@ -19,16 +19,31 @@
 }
 
 .column {
+  display: inline-block;
+  padding: 3%;
+  width: 50%;
+  color: rgb(50, 49, 49);
+}
+
+
+.column p {
+  color: slategray;
+  font-weight: lighter;
+}
+
+/*
+.bottomcolumn {
   padding: 3%;
   width: 50%;
   float: left;
   color: rgb(50, 49, 49);
 }
 
-.column p {
+.bottomcolumn p {
   color: slategray;
   font-weight: lighter;
 }
+*/
 
 .theme {
   text-align: center;
@@ -68,23 +83,30 @@
 }
 
 .sidebar {
+  display: inline-block;
   padding: 2%;
   color: black;
   text-align: left;
   font-weight: lighter;
-  width: 30%;
-  float: right;
+  width: 40%;
+  height: auto;
+ /* float: right;*/
   background-color:rgb(230, 229, 229);
   border: solid white;
   border-width: 25px;
   margin-top: 10px;
-  margin-bottom: 10px;
   box-sizing: border-box;
   margin: auto;
-  display: block;
 }
 
 .sidebar h2 {
   font-weight: bold;
   font-size: large;
+}
+
+/*.column {
+  display: inline-block;
+  padding: 3%;
+  width: 50%;
+  color: rgb(50, 49, 49);
 }
